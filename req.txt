@@ -1,0 +1,27 @@
+EXAMEN WEB de ABISOFT
+
+Cualquier Base de Datos y Vue JS
+
+Debe ser Web
+
+Hacer la CRUD completa
+
+Un formulario web
+
+5 campos
+
+1-Nombre completo
+2-Edad
+3-Fecha de nacimiento 	FECHA NAC ANTESSS <-----
+4-Fecha de inscripcion
+5-Costo 
+
+Grabar los datos en una tabla en el DB
+
+Controlar que:
+
+1-La fecha de inscripcion sea mayor que la de nacimiento 
+2-Que la persona tenga mas de 18 años 
+3-Que la edad coincida con la fecha de nacimiento ****
+4-Que el costo sea proporcional a la fecha de inscripcion, 100 dolares por cada año transcurrido
+5-Que se ingrese almenos dos nombres (nombre apellido) con 4 caracteres cada uno
